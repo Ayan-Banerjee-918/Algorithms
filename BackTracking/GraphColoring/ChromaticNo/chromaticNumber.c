@@ -1,4 +1,3 @@
-                         ___SOURCE_CODE___ 
 #include <stdio.h>
 #include <stdlib.h>
 
